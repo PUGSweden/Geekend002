@@ -33,3 +33,7 @@ Markdown preview i Visual Studio Code genom att trycka på knappen i mitten av d
 ute till höger eller `Ctrl+K V`
 
 I Visual Studio Code installera plug-in markdownlint
+
+## Länkar
+
+Lär mer om [git på VSTS](https://www.visualstudio.com/learn-git/)
