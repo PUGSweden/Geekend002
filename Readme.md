@@ -44,3 +44,4 @@ Hålltider lördag:
 Förslag på sessioner:
 - Tips & Tricks in PowerShell
 - PowerShell Debugging  
+
