@@ -46,4 +46,4 @@ Förslag på sessioner:
 - PowerShell Debugging  
 
 
-![PUGS Git cheat sheet]LazyguideToGit.png
+![PUGS Git cheat sheet](https://github.com/bjompen/Geekend002/blob/master/LazyguideToGit.png)
