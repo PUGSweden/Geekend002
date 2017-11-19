@@ -45,3 +45,5 @@ Förslag på sessioner:
 - Tips & Tricks in PowerShell
 - PowerShell Debugging  
 
+
+![PUGS Git cheat sheet](https://github.com/bjompen/Geekend002/blob/master/LazyguideToGit.png)
