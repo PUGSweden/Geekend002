@@ -12,6 +12,21 @@ Idéer på saker att göra
 - VSCode Crash Course  
 - PowerShell Classes  
 
+Hålltider Söndag:
+
+10:00 pizzabeställning
+
+12-13ish (förhoppningsvis) Lunch!
+
+15:00 Fika
+
+17:00 Get-GeekEnd | Stop-GeekEnd
+
+Förslag på sessioner:
+- Tips & Tricks in PowerShell
+- PowerShell Debugging  
+
+
 
 Hålltider lördag:
 
@@ -24,8 +39,9 @@ Hålltider lördag:
 14:00 - Hassain
 
 17:00 You don't need to go home
-      But you CANNOT stay here
+But you CANNOT stay here
 
 Förslag på sessioner:
 - Tips & Tricks in PowerShell
 - PowerShell Debugging  
+
